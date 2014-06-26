@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Name=minecraft
+Exec=bash -c "cd `dirname %k`/contents; sh minecraft.sh"
